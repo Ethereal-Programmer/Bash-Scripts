@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This is a script that makes scripts, very useful for the extremely lazy, very meta.
+
 # Take user input to get the name of the script
 read -p "Please enter a name for your new script: " SCRIPT_NAME
 
